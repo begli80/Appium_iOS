@@ -33,6 +33,6 @@ public class AppTest {
 		driver.findElementByAccessibilityId("OK").click();
 		//driver.closeApp();
 		
-		
+		//hjghjgjh
 	}
 }
