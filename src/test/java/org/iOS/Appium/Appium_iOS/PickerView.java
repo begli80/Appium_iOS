@@ -27,7 +27,6 @@ public class PickerView {
         driver.findElementByAccessibilityId("Blue color component value").sendKeys("135");
         driver.findElementByAccessibilityId("Red color component value").sendKeys("75");
         
-        //bkjhjkhjk
 	}
 
 }
